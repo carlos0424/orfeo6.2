@@ -1,7 +1,7 @@
-# Orfeo 6.1 - skinatech
+# Orfeo 6.2 - skinatech
 
 ### Versión 1.0
-* Proyecto: Ultima versión de Orfeo 6.1, versión de php >7.3
+* Proyecto: Ultima versión de Orfeo 6.2, versión de php >7.3
 
 ```
 ### Instalación
